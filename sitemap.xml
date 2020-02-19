@@ -13,23 +13,33 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/example/</loc>
-    <lastmod>2020-02-18T20:55:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/my-first-post/</loc>
-    <lastmod>2020-02-18T20:55:29-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2020-02-18T20:55:29-08:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/resources/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/first_blog_post/</loc>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/math/</loc>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/reading/</loc>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2020-02-18T20:55:29-08:00</lastmod>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

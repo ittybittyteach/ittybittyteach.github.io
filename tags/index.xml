@@ -6,17 +6,26 @@
     <description>Recent content in Tags on Mrs. Martin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 20:55:29 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>example</title>
-      <link>https://example.com/tags/example/</link>
-      <pubDate>Tue, 18 Feb 2020 20:55:29 -0800</pubDate>
+      <title>math</title>
+      <link>https://example.com/tags/math/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/example/</guid>
+      <guid>https://example.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://example.com/tags/reading/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/reading/</guid>
       <description></description>
     </item>
     

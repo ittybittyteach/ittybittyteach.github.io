@@ -6,18 +6,30 @@
     <description>Recent content in Posts on Mrs. Martin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 20:55:29 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
-      <pubDate>Tue, 18 Feb 2020 20:55:29 -0800</pubDate>
+      <title>resouraces</title>
+      <link>https://example.com/posts/resources/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
-      <description>it updates as you type! this will be BOLD</description>
+      <guid>https://example.com/posts/resources/</guid>
+      <description>links for parents, common core, etc
+(expand this)
+Washington Common Core State Standards
+https://www.k12.wa.us/student-success/learning-standards-instructional-materials it updates as you type! this will be BOLD</description>
+    </item>
+    
+    <item>
+      <title>first blog post</title>
+      <link>https://example.com/posts/first_blog_post/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/first_blog_post/</guid>
+      <description>this is your welcome to parents</description>
     </item>
     
   </channel>
