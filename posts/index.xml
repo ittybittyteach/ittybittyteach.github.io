@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mrs. Martin&#39;s Website</title>
-    <link>https://example.com/posts/</link>
+    <link>https://ittybittyteach.github.io/posts/</link>
     <description>Recent content in Posts on Mrs. Martin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ittybittyteach.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>resouraces</title>
-      <link>https://example.com/posts/resources/</link>
+      <link>https://ittybittyteach.github.io/posts/resources/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/resources/</guid>
+      <guid>https://ittybittyteach.github.io/posts/resources/</guid>
       <description>links for parents, common core, etc
 (expand this)
 Washington Common Core State Standards
@@ -25,10 +25,10 @@ https://www.k12.wa.us/student-success/learning-standards-instructional-materials
     
     <item>
       <title>first blog post</title>
-      <link>https://example.com/posts/first_blog_post/</link>
+      <link>https://ittybittyteach.github.io/posts/first_blog_post/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/first_blog_post/</guid>
+      <guid>https://ittybittyteach.github.io/posts/first_blog_post/</guid>
       <description>this is your welcome to parents</description>
     </item>
     
