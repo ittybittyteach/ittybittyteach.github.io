@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mrs. Martin&#39;s Website</title>
-    <link>https://ittybittyteach.github.io/posts/</link>
-    <description>Recent content in Posts on Mrs. Martin&#39;s Website</description>
+    <title>Reading Resources on Mrs. Martin&#39;s Website</title>
+    <link>https://ittybittyteach.github.io/tags/reading-resources/</link>
+    <description>Recent content in Reading Resources on Mrs. Martin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ittybittyteach.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ittybittyteach.github.io/tags/reading-resources/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Class Field Trip to the Zoo</title>
-      <link>https://ittybittyteach.github.io/posts/class-field-trip/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ittybittyteach.github.io/posts/class-field-trip/</guid>
-      <description>Need Chaperones Heading to the zoo! We&amp;rsquo;re off to the zoo this week and we need some helpers. Moms and Dads that can be of help please see the front office for the forms to volunteer. These must be turned in and cleared with the front desk by Wednesday.
-At the zoo we will have a guide group and students will be paired up with parents. I will have packets for each of you who have already cleared with me and those that are still working with the office.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://ittybittyteach.github.io/posts/resources/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ittybittyteach.github.io/posts/resources/</guid>
-      <description>** Megan Martin **
-email: MrsMartin@school.gmail.com.
-Helen Baller Elementary School Phone: 555-555-5555 Address: 1954 NE Garfield Street, Camas, WA 98607.
-Washington Common Core State Standards
-https://www.k12.wa.us/student-success/learning-standards-instructional-materials</description>
-    </item>
     
     <item>
       <title>Hello Everyone!</title>
